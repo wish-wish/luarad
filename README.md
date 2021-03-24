@@ -5,6 +5,8 @@ luarad, some changes for cocos2dx, fork from kang's luaide, so you can see thech
 <br/>
 tiny is good, someone like tiny , so split it from skyheroes.
 <br/>
+the funny thing is kang, it say this is not not change from, it's wired, so the project is dead, are you happy?
+https://marketplace.visualstudio.com/items?itemName=cjoy.luarad&ssr=false#review-details
 
 luarad=Rapid Application Develope using lua script.<br/> 
 LuaRad is cocos2d-x lua binding debugger,support code complete<br/>
