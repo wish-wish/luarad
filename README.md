@@ -23,19 +23,19 @@ Features:<br/>
 4、fix some compile error.<br/>
 5、simplify config name ,"luaRad-LD-2dx" for launch debug,"luaRad-RD-2dx" for remote debug<br/>
 <br/>
-version 0.0.15~0.16<br/>
+version 0.0.15-0.16<br/>
 1、add search key of luaide<br/>
 2、delete simulator-close error message<br/>
 <br/>
 version 0.0.14<br/>
 1、delete some un use information message<br/>
 <br/>
-version 0.0.12~0.0.13<br/>
+version 0.0.12-0.0.13<br/>
 1、add donate me link<br/>
 2、fix fail auto close simulator function<br/>
 3、delete 2dx demo project, if you need it , please contract me<br/> 
 <br/>
-version 0.0.10~0.0.11<br/>
+version 0.0.10-0.0.11<br/>
 1、add a cocos2d-x 3.17 windows verrsion sample, so you can can easy start you development<br/>
 <br/>
 version 0.0.9<br/>
@@ -44,7 +44,7 @@ version 0.0.9<br/>
 version 0.0.8<br/>
 1、close debug tool bar when simulator exit<br/>
 <br/>
-version 0.0.6~0.0.7<br/>
+version 0.0.6-0.0.7<br/>
 1、change debug configure name to "xxx-LD-xxx" for launch debuging & "xxx-RD-xxx" for remote debugging.<br/>
 2、add config snippets so you can easy to integrate with other debuger in one luanch.json file, just press add configure button.<br/>
 3、change the extension icon.<br/>
@@ -54,7 +54,7 @@ version 0.0.5<br/>
 2、on win32 platform exePath support relative path，accroding to the level which .vscode in<br/>
   sample："exePath": "sim/xxx.exe"<br/>
 <br/>
-version 0.0.2~0.0.4<br/>
+version 0.0.2-0.0.4<br/>
 1、fix Debug function<br/>
 <br/>
 version 0.0.1<br/>
