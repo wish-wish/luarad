@@ -12,7 +12,7 @@ to kang.  let theother's see it. the beginner is harded.  be a father man, don't
 
 luarad=Rapid Application Develope using lua script.<br/> 
 LuaRad is cocos2d-x lua binding debugger,support code complete<br/>
-the config sample can download from https://www.5icoin.com:171/LuaDebug.zip<br/>
+the config sample can download from http://www.5icoin.com:171/LuaDebug.zip<br/>
 any suggestion or any problem, please mail to 45030013@qq.com or add qq group:45198233<br/>
 if you like this, you can donate me to make it better. thank you !<br/>
 <a href="https://www.5icoin.com:171/support_me.html">dnote me</a> <br/>
