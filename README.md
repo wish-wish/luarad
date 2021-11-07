@@ -68,3 +68,7 @@ contract:<br/>
 mail:45030013@qq.com<br/>
 qq:45030013<br/>
 qq group:45198233<br/>
+<div class="{float: left}">
+    <div class="{float: left}">weixin<br/><img src="http://www.5icoin.com/cc_wx.png" height="150" width="148" /></div>
+    <div class="{float: left}">alipay<br/><img src="http://www.5icoin.com/cc_zfb.png" height="150" width="148" /></div>
+</div>
